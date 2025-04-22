@@ -1,5 +1,5 @@
 # Data Project Template
-# Source: https://www.youtube.com/watch?v=mpk4Q5feWaw
+# Source: [vscode-setup-data-projects] (https://www.youtube.com/watch?v=mpk4Q5feWaw)
 
 ## Cookiecutter Data Science    
 This project template is a simplified version of the [Cookiecutter Data Science](https://cookiecutter-data-science.drivendata.org) template, created to suit the needs of Datalumina and made available as a GitHub template.
